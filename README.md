@@ -23,7 +23,10 @@
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
-
+---
+## 📈 GitHub Stats
+![Varsha's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=varsha-kotegar&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varsha-kotegar&layout=compact&theme=radical)
 
 
 ---
