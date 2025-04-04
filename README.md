@@ -8,6 +8,10 @@
 - 💬 Ask me about **Python, AI, and Mathematics**  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/varshakotegar)  
 - ⚡ Fun fact: **I turn coffee into code ☕🚀**  -->
+---
+![Profile Views](https://komarev.com/ghpvc/?username=varsha-kotegar&color=blue)
+
+
 
 ## 📊 GitHub Stats
 ![Varsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=varsha-kotegar&show_icons=true&theme=radical)
