@@ -9,7 +9,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/varshakotegar)  
 - ⚡ Fun fact: **I turn coffee into code ☕🚀**  -->
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=varsha-kotegar&color=blue)
+
 
 
 
@@ -27,7 +27,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
-
-
+---
+![Profile Views](https://komarev.com/ghpvc/?username=varsha-kotegar&color=blue)
 ---
 Made with ❤️ by Varsha 🚀
