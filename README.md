@@ -22,7 +22,6 @@
 ## 🚀 Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-red?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
