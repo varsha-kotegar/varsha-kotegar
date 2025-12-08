@@ -1,6 +1,5 @@
 # Hi 👋, I'm Varsha
 
-### AI enthusiast with a passion for problem-solving
 <!--
 - 🔭 I’m currently working on **[Your Project Name]**  
 - 🌱 I’m currently learning **Machine Learning, Cybersecurity, and Backend Development**  
