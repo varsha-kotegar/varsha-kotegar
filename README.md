@@ -23,7 +23,7 @@
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varsha-kotegar&layout=compact&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=varsha-kotegar&theme=github-dark)
 
 ---
 
