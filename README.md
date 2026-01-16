@@ -1,31 +1,46 @@
-# Hi 👋, I'm Varsha
+# Hi there 👋 I’m Varshaaaa
 
-<!--
-- 🔭 I’m currently working on **[Your Project Name]**  
-- 🌱 I’m currently learning **Machine Learning, Cybersecurity, and Backend Development**  
-- 👯 I’m looking to collaborate on **AI/ML, Cybersecurity, and Web Development projects**  
-- 💬 Ask me about **Python, AI, and Mathematics**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/varshakotegar)  
-- ⚡ Fun fact: **I turn coffee into code ☕🚀**  -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=varsha-kotegar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+🎓 Engineering Student | 🌱 Learner  
+
+> I drink water, overthink a little, get motivated at night,  
+> and somehow still manage to get things done.
+
 ---
 
+## About Me
 
+- 🌱 **Currently learning Backend Development** (APIs, databases, logic & patience)
+- 💡 Interested in **Technology, Open Source, FinTech, and Problem Solving**
+- ✍️ Love **writing, documentation, and reading books**
+- 🤝 Actively involved in **student communities & collaborative initiatives**
+- 🎯 Believe in consistency, effort, and learning by actually doing
 
-
-## 📊 GitHub Stats
-![Varsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=varsha-kotegar&show_icons=true&theme=radical)
-
-## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varsha-kotegar&layout=compact&theme=radical)
-
-## 🚀 Languages and Tools:
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-red?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=varsha-kotegar&color=blue)
+
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varsha-kotegar&layout=compact&theme=default)
+
 ---
-Made with ❤️ by Varsha 🚀
+
+## 🤝 Let’s Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:varsha.is23@sahyadri.edu.in">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/varsha-kotegar/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+*If you’re reading this, yes — I’m still learning. And no — I’m not stopping.*
